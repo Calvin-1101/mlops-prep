@@ -13,3 +13,7 @@ wheels/
 #Training Outputs 
 /artifacts
 
+#MLflow 
+mlflow.db 
+mlartifacts/
+mlruns/
